@@ -10,7 +10,3 @@ You can find more about me here:
 
 
 [![Hamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamid-vakilzadeh&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### recent repositories: 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamid-vakilzadeh&repo=SeekingAlpha-Scraper)](https://github.com/anuraghazra/github-readme-stats)
